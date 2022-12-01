@@ -3,7 +3,7 @@ ruby '2.5.0'
 
 gem 'puma', '~> 4.3.1'
 gem 'rake', '~> 13.0.1'
-gem 'sinatra', '~> 2.0.0'
+gem 'sinatra', '~> 2.2.3'
 gem 'sinatra-param', '~> 1.6.0', require: 'sinatra/param'
 gem 'rest-client','~> 2.1.0'
 gem 'graphql-client','~> 0.16.0'
